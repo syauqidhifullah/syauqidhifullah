@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello Semua! Saya Syauqi Dhifullah 👋
+
+![Syauqi Dhifullah](img/HeaderGithub.png)
 
 <!--
 **syauqidhifullah/syauqidhifullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+-🔭 I’m currently studying on [**Universitas Bung Karno**](https://ubk.ac.id/)
+-🌱 I’m currently learning **Laravel Framework** and **Javascript**
+-😁😁
+
+![MikeyKun](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzN3b2h5cmJxbGgwdXV4YzlweWJxazUyY2cwbGQ3bTVxbWJnYnF1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jdFm2bcWlj4EUVCpc0/giphy.gif)
