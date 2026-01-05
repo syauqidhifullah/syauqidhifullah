@@ -46,7 +46,7 @@ Gmail : **syauqiworkday@gmail.com**
 
 ---
 
-![Mario](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTJucndoNjllbDd5Z3l4b2ljdGFvcHczZ3JxNWwwYWJtaW56bHJ3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13qhRntDMhgqZ2/giphy.gif) ![Chika](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmxnbDk3aWVnMmpqcDZpa2dtY3pqempvMnBlY3RsdXBpaWl1bW1hMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LML5ldpTKLPelFtBfY/giphy.gif)
+![Mario](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTJucndoNjllbDd5Z3l4b2ljdGFvcHczZ3JxNWwwYWJtaW56bHJ3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13qhRntDMhgqZ2/giphy.gif)   ![Chika](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmxnbDk3aWVnMmpqcDZpa2dtY3pqempvMnBlY3RsdXBpaWl1bW1hMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LML5ldpTKLPelFtBfY/giphy.gif)
 
 ---
 
