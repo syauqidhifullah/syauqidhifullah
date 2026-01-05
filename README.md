@@ -50,7 +50,8 @@ Gmail : **syauqiworkday@gmail.com**
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=syauqidhifullah&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Mario](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTJucndoNjllbDd5Z3l4b2ljdGFvcHczZ3JxNWwwYWJtaW56bHJ3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13qhRntDMhgqZ2/giphy.gif) ![KawaiCat](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG9nMHFnOTJhaXd1d2x1dzR2cXFxMHJlMWV1b2k0cHA5dG43N3UwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AHj0lQstZ9I9W/giphy.gif)
+![Mario](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTJucndoNjllbDd5Z3l4b2ljdGFvcHczZ3JxNWwwYWJtaW56bHJ3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13qhRntDMhgqZ2/giphy.gif)
+![KawaiCat](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG9nMHFnOTJhaXd1d2x1dzR2cXFxMHJlMWV1b2k0cHA5dG43N3UwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AHj0lQstZ9I9W/giphy.gif)
 
 ---
 
