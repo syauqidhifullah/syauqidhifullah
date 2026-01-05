@@ -39,3 +39,19 @@ Gmail : **syauqiworkday@gmail.com**
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=syauqidhifullah&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Mario](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTJucndoNjllbDd5Z3l4b2ljdGFvcHczZ3JxNWwwYWJtaW56bHJ3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13qhRntDMhgqZ2/giphy.gif)
+
+<p align="left">Minigames For Everyone💕(●'◡'●)</p>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/syauqidhifullah/syauqidhifullah/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/syauqidhifullah/syauqidhifullah/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/syauqidhifullah/syauqidhifullah/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/syauqidhifullah/syauqidhifullah/output/snake.svg" alt="Snake animation" />
+
+###
