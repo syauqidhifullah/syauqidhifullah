@@ -34,3 +34,5 @@ Gmail : **syauqiworkday@gmail.com**
 ![https://github.com/syauqidhifullah](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![https://www.linkedin.com/in/syauqi-dhifullah-6b4609391/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://www.instagram.com/syauqidflh/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.youtube.com/@ruqianakkost](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 
 ##### My Github Stats
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=syauqidhifullah&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
