@@ -44,6 +44,9 @@ Gmail : **syauqiworkday@gmail.com**
 
 ###
 
+![snake](https://raw.githubusercontent.com/USERNAME/REPO/output/snake.svg)
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/syauqidhifullah/syauqidhifullah/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/syauqidhifullah/syauqidhifullah/output/pacman-contribution-graph.svg">
